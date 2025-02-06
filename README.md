@@ -31,4 +31,6 @@ Die area = 660.685x671.405 = 443587.212425 square microns
 ![image altt](https://github.com/Rionshaw/rion-shaw-nasscom-vsd-soc-design-program/blob/4ba0e5fb80482ee92d4bc3993e3f3a6574d35c18/Screenshot%20from%202025-02-06%2020-37-50.png)
 once Magic opens, press s for select the entire object and press v for allign in centre and z for zoom in.
 ![image alt](https://github.com/Rionshaw/rion-shaw-nasscom-vsd-soc-design-program/blob/35fad4895c4c996758a0eb3582fbdb704c4f0911/Screenshot%20from%202025-02-06%2020-46-38.png)
+### 4. Perform congestion-aware placement using RePlAcE
+now we run the placement 
 
