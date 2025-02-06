@@ -20,3 +20,10 @@ we run the floorplan
 
 ### 2. Review the floorplan output files and calculate the die area
 ![image alt](https://github.com/Rionshaw/rion-shaw-nasscom-vsd-soc-design-program/blob/bce02997aa3ef5e1662ed201fb1fab188eda43ad/Screenshot%20from%202025-02-06%2020-22-50.png)
+![image alt](https://github.com/Rionshaw/rion-shaw-nasscom-vsd-soc-design-program/blob/98c6d8ffc27016e02906493f9e8c792289e19abb/Screenshot%20from%202025-02-06%2020-22-28.png)
+The width and height of the die are given (in distance units) by the 'DIEAREA' line. The number of distance units per micron is given by the 'UNITS DISTANCE MICRONS'. The current setting is 1000 distance units per micron. <br>
+Die width: 660685 d.u. ---> 660.685 microns <br>
+Die height: 671405 d.u. ---> 671.405 microns <br>
+Die area = 660.685x671.405 = 443587.212425 square microns
+
+### 3. Review the floorplan in Magic
