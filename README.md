@@ -49,3 +49,6 @@ The IO pins have been placed around the bottom left-hand corner.
 ### 2. Clone CMOS inverter standard cell design from repository
 Change directory to the OpenLANE flow directory within the OpenLANE working directoryand then Clone the repository(git clone https://github.com/nickson-jose/vsdstdcelldesign.git) and give command ls -ltr
 ![image alt](https://github.com/Rionshaw/rion-shaw-nasscom-vsd-soc-design-program/blob/074901206d31d5ce7c6c4b6e21cf2cacd4fd1032/Screenshot%20from%202025-02-06%2021-38-40.png)
+### 3. Explore the inverter layout in Magic
+![image alt](https://github.com/Rionshaw/rion-shaw-nasscom-vsd-soc-design-program/blob/949830aa54e6981b7ce02876c80625fe90ff8b02/Screenshot%20from%202025-02-06%2021-50-36.png)
+
