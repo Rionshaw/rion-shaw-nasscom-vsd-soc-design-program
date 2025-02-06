@@ -17,3 +17,6 @@ flop ratio = 1613/14876 = 0.108429685 or 10.84%
 ### 1. Define the floorplan using the floorplan utility from OpenLANE
 we run the floorplan
 ![image alt](https://github.com/Rionshaw/rion-shaw-nasscom-vsd-soc-design-program/blob/e17f58ad8d10afbd5358c077651d91fdf2e08333/Screenshot%20from%202025-02-06%2020-15-15.png)
+
+### 2. Review the floorplan output files and calculate the die area
+
