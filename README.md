@@ -41,6 +41,9 @@ The standard cells have been legally placed and we can observe also the power an
 ![image alt](https://github.com/Rionshaw/rion-shaw-nasscom-vsd-soc-design-program/blob/896711445f89a371fe6eef0f53d5e378df266d44/Screenshot%20from%202025-02-06%2021-05-25.png)
 
 # DAY 3 - Design library cell using Magic Layout and ngspice characterization
-### 1.  Observe different placement modes with Magic
+### 1. Observe different placement modes with Magic
 The placement mode can be controlled through the value of FP_IO_MODE. We set it to 2, run floorplan again and observe it with Magic.
 ![image alt](https://github.com/Rionshaw/rion-shaw-nasscom-vsd-soc-design-program/blob/d496cc211cc55925aa7c8a52d1dcdf3470ebf23b/Screenshot%20from%202025-02-06%2021-27-23.png)
+![image alt](https://github.com/Rionshaw/rion-shaw-nasscom-vsd-soc-design-program/blob/6eed6342e7381905aac81f5ab0b70725413c2988/Screenshot%20from%202025-02-06%2021-30-24.png)
+The IO pins have been placed around the bottom left-hand corner.
+### 2. Clone CMOS inverter standard cell design from repository
