@@ -10,5 +10,9 @@ after successful completion of the synthesis we go to the reports folder of the 
 The count of flip-flops is given by 'sky130_fd_sc_hd_dfxtp_2'
 ![image alt](https://github.com/Rionshaw/rion-shaw-nasscom-vsd-soc-design-program/blob/ce9332ca06e94433ab6b249540bf6f0fe9578a9f/Screenshot%20from%202025-02-06%2019-34-55.png)
 count of flip-flops - 1613 <br>
-number of cells - 14876
+number of cells - 14876 <br>
 flop ratio = 1613/14876 = 0.108429685 or 10.84%
+# DAY 2 - Good floorplan VS bad floorplan and introduction to library cells
+
+### 1. Define the floorplan using the floorplan utility from OpenLANE
+we run the floorplan
