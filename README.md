@@ -33,4 +33,4 @@ once Magic opens, press s for select the entire object and press v for allign in
 ![image alt](https://github.com/Rionshaw/rion-shaw-nasscom-vsd-soc-design-program/blob/35fad4895c4c996758a0eb3582fbdb704c4f0911/Screenshot%20from%202025-02-06%2020-46-38.png)
 ### 4. Perform congestion-aware placement using RePlAcE
 now we run the placement 
-
+![image alt](https://github.com/Rionshaw/rion-shaw-nasscom-vsd-soc-design-program/blob/aff8885ade47a6f254cdb217d956a4eefc61d27a/Screenshot%20from%202025-02-06%2020-56-41.png)
