@@ -5,3 +5,10 @@ The aim is calculate the flop ratio -
 ![image alt](https://github.com/Rionshaw/rion-shaw-nasscom-vsd-soc-design-program/blob/0d8db12d8863e95843c649e06470677b2d646a55/Screenshot%20from%202025-02-06%2019-11-09.png)
 now synthesis is started
 ![image alt](https://github.com/Rionshaw/rion-shaw-nasscom-vsd-soc-design-program/blob/4c0255b7745d76fe0a57730ab852577c1589317c/Screenshot%20from%202025-02-06%2019-24-44.png)
+after successful completion of the synthesis we go to the reports folder of the specific run (in my case it is 06-02_13-40) and see the Yosys stat report file 
+![image alt]
+The count of flip-flops is given by 'sky130_fd_sc_hd_dfxtp_2'
+![image alt]
+count of flip-flops - 1613
+number of cells - 14876
+flop ratio = 1613/14876 = 0.108429685 or 10.84%
