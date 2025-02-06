@@ -28,3 +28,6 @@ Die area = 660.685x671.405 = 443587.212425 square microns
 
 ### 3. Review the floorplan in Magic
 ![image alt](https://github.com/Rionshaw/rion-shaw-nasscom-vsd-soc-design-program/blob/9a716f0a1a43bb21452e949434aee09a837ce557/Screenshot%20from%202025-02-06%2020-35-08.png)
+![image altt](https://github.com/Rionshaw/rion-shaw-nasscom-vsd-soc-design-program/blob/4ba0e5fb80482ee92d4bc3993e3f3a6574d35c18/Screenshot%20from%202025-02-06%2020-37-50.png)
+once Magic opens, press s for select the entire object and press v for allign in centre and z for zoom in.
+
