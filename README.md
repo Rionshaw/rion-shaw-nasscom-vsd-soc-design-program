@@ -43,3 +43,4 @@ The standard cells have been legally placed and we can observe also the power an
 # DAY 3 - Design library cell using Magic Layout and ngspice characterization
 ### 1.  Observe different placement modes with Magic
 The placement mode can be controlled through the value of FP_IO_MODE. We set it to 2, run floorplan again and observe it with Magic.
+![image alt](https://github.com/Rionshaw/rion-shaw-nasscom-vsd-soc-design-program/blob/d496cc211cc55925aa7c8a52d1dcdf3470ebf23b/Screenshot%20from%202025-02-06%2021-27-23.png)
