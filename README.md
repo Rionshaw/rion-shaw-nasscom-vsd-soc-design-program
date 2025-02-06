@@ -6,7 +6,7 @@ The aim is calculate the flop ratio -
 now synthesis is started
 ![image alt](https://github.com/Rionshaw/rion-shaw-nasscom-vsd-soc-design-program/blob/4c0255b7745d76fe0a57730ab852577c1589317c/Screenshot%20from%202025-02-06%2019-24-44.png)
 after successful completion of the synthesis we go to the reports folder of the specific run (in my case it is 06-02_13-40) and see the Yosys stat report file 
-![image alt]
+![image alt](https://github.com/Rionshaw/rion-shaw-nasscom-vsd-soc-design-program/blob/9921efa62ed347648ad249ad095eb402c1deef19/Screenshot%20from%202025-02-06%2019-36-44.png)
 The count of flip-flops is given by 'sky130_fd_sc_hd_dfxtp_2'
 ![image alt](https://github.com/Rionshaw/rion-shaw-nasscom-vsd-soc-design-program/blob/ce9332ca06e94433ab6b249540bf6f0fe9578a9f/Screenshot%20from%202025-02-06%2019-34-55.png)
 count of flip-flops - 1613
