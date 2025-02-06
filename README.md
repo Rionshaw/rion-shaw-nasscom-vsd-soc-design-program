@@ -36,4 +36,5 @@ now we run the placement
 ![image alt](https://github.com/Rionshaw/rion-shaw-nasscom-vsd-soc-design-program/blob/aff8885ade47a6f254cdb217d956a4eefc61d27a/Screenshot%20from%202025-02-06%2020-56-41.png)
 ### 5. Review the placement in Magic
 ![image alt](https://github.com/Rionshaw/rion-shaw-nasscom-vsd-soc-design-program/blob/58be598611d875a07c39018d1594e2d7f4d538be/Screenshot%20from%202025-02-06%2021-06-10.png)
- The standard cells have been legally placed and we can observe also the power and GND lines.
+The standard cells have been legally placed and we can observe also the power and GND lines.
+![image alt](https://github.com/Rionshaw/rion-shaw-nasscom-vsd-soc-design-program/blob/1a6c6ab30d068be15b299592f97256669d35e1d6/Screenshot%20from%202025-02-06%2021-04-08.png)
