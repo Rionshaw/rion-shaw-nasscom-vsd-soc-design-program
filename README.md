@@ -38,3 +38,6 @@ now we run the placement
 ![image alt](https://github.com/Rionshaw/rion-shaw-nasscom-vsd-soc-design-program/blob/58be598611d875a07c39018d1594e2d7f4d538be/Screenshot%20from%202025-02-06%2021-06-10.png)
 The standard cells have been legally placed and we can observe also the power and GND lines.
 ![image alt](https://github.com/Rionshaw/rion-shaw-nasscom-vsd-soc-design-program/blob/1a6c6ab30d068be15b299592f97256669d35e1d6/Screenshot%20from%202025-02-06%2021-04-08.png)
+![image alt](https://github.com/Rionshaw/rion-shaw-nasscom-vsd-soc-design-program/blob/896711445f89a371fe6eef0f53d5e378df266d44/Screenshot%20from%202025-02-06%2021-05-25.png)
+
+# DAY 3 - Design library cell using Magic Layout and ngspice characterization
