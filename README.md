@@ -19,4 +19,4 @@ we run the floorplan
 ![image alt](https://github.com/Rionshaw/rion-shaw-nasscom-vsd-soc-design-program/blob/e17f58ad8d10afbd5358c077651d91fdf2e08333/Screenshot%20from%202025-02-06%2020-15-15.png)
 
 ### 2. Review the floorplan output files and calculate the die area
-
+![image alt](https://github.com/Rionshaw/rion-shaw-nasscom-vsd-soc-design-program/blob/bce02997aa3ef5e1662ed201fb1fab188eda43ad/Screenshot%20from%202025-02-06%2020-22-50.png)
