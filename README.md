@@ -60,3 +60,11 @@ Connectivity of the source of the p-channel MOSFET to VGND
 Connectivity of the source of the n-channel MOSFET to VGND
 ![image alt](https://github.com/Rionshaw/rion-shaw-nasscom-vsd-soc-design-program/blob/c99963b989c17d41616fc66f4099b9d03d0554d2/Screenshot%20from%202025-02-07%2019-49-18.png)
 ### 4. Extraction of CMOS inverter SPICE files from Magic
+Write on Tkcon.tcl  %extract all then %ext2spice cthresh 0 rthresh 0 then observe the changes
+![image alt](https://github.com/Rionshaw/rion-shaw-nasscom-vsd-soc-design-program/blob/e6a4b5f35a74b80a7ba76478c5451ae53c6b666f/Screenshot%20from%202025-02-07%2019-57-24.png)
+![image alt](https://github.com/Rionshaw/rion-shaw-nasscom-vsd-soc-design-program/blob/e6a4b5f35a74b80a7ba76478c5451ae53c6b666f/Screenshot%20from%202025-02-07%2019-58-51.png)
+![image alt](https://github.com/Rionshaw/rion-shaw-nasscom-vsd-soc-design-program/blob/e6a4b5f35a74b80a7ba76478c5451ae53c6b666f/Screenshot%20from%202025-02-07%2020-08-39.png
+)
+![image alt](https://github.com/Rionshaw/rion-shaw-nasscom-vsd-soc-design-program/blob/e6a4b5f35a74b80a7ba76478c5451ae53c6b666f/Screenshot%20from%202025-02-07%2020-09-12.png
+)
+### 5. Adjustment of CMOS inverter SPICE file for simulation
