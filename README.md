@@ -52,4 +52,5 @@ Change directory to the OpenLANE flow directory within the OpenLANE working dire
 ### 3. Explore the inverter layout in Magic
 ![image alt](https://github.com/Rionshaw/rion-shaw-nasscom-vsd-soc-design-program/blob/949830aa54e6981b7ce02876c80625fe90ff8b02/Screenshot%20from%202025-02-06%2021-50-36.png)
 ![image alt](https://github.com/Rionshaw/rion-shaw-nasscom-vsd-soc-design-program/blob/5954833f4acec0037ad5995d8b5d78461308955c/Screenshot%20from%202025-02-06%2021-57-00.png)
+![image alt](https://github.com/Rionshaw/rion-shaw-nasscom-vsd-soc-design-program/blob/523017d4e5603ff816ac5da39c08ac4f80c18679/Screenshot%20from%202025-02-07%2019-38-29.png)
 
