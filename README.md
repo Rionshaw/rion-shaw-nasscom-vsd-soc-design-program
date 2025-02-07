@@ -55,5 +55,8 @@ Change directory to the OpenLANE flow directory within the OpenLANE working dire
 ![image alt](https://github.com/Rionshaw/rion-shaw-nasscom-vsd-soc-design-program/blob/523017d4e5603ff816ac5da39c08ac4f80c18679/Screenshot%20from%202025-02-07%2019-38-29.png)
 Connectivity of the drains of both p-channel and n-channel MOSFETs to the output Y
 ![image alt](https://github.com/Rionshaw/rion-shaw-nasscom-vsd-soc-design-program/blob/75d69b80ea08b8d40c9a1ea2a6f341bea9ed6b4d/Screenshot%20from%202025-02-07%2019-42-07.png)
-Connectivity of the source of the n-channel MOSFET to VGND
+Connectivity of the source of the p-channel MOSFET to VGND
 ![image alt](https://github.com/Rionshaw/rion-shaw-nasscom-vsd-soc-design-program/blob/21dc819a9efb8c217d59378e67eecf51b5917f28/Screenshot%20from%202025-02-07%2019-46-08.png)
+Connectivity of the source of the n-channel MOSFET to VGND
+![image alt](https://github.com/Rionshaw/rion-shaw-nasscom-vsd-soc-design-program/blob/c99963b989c17d41616fc66f4099b9d03d0554d2/Screenshot%20from%202025-02-07%2019-49-18.png)
+### 4. Extraction of CMOS inverter SPICE files from Magic
