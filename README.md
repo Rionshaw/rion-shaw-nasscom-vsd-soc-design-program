@@ -76,3 +76,7 @@ do the changes
     Specify the transient analysis
 ### 6. CMOS inverter characterization with ngspice
 ![image alt](https://github.com/Rionshaw/rion-shaw-nasscom-vsd-soc-design-program/blob/6f3438f621e1f2854a4e3e0a508c01ce9bca080c/Screenshot%20from%202025-02-09%2008-23-28.png)
+
+#### RISE TIME
+![image alt](https://github.com/Rionshaw/rion-shaw-nasscom-vsd-soc-design-program/blob/bde2dd6214194565e4c5520577a7500f8aa7dd7c/Screenshot%20from%202025-02-09%2008-42-47.png)
+the rise time is 
