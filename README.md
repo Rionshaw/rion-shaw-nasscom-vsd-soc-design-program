@@ -79,4 +79,7 @@ do the changes
 
 #### RISE TIME
 ![image alt](https://github.com/Rionshaw/rion-shaw-nasscom-vsd-soc-design-program/blob/bde2dd6214194565e4c5520577a7500f8aa7dd7c/Screenshot%20from%202025-02-09%2008-42-47.png)
-the rise time is 
+the rise time is 2.20339 - 2.17987 ns = 0.02352ns = 23.52ps
+#### RISE PROPAGATION DELAY
+the rise propagation delay is 2.20339 ns - 2.18435 ns =0.01904 ns = 19.04ps 
+### 7. Sky130 Tech File Labs
