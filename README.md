@@ -55,7 +55,7 @@ Change directory to the OpenLANE flow directory within the OpenLANE working dire
 ![image alt](https://github.com/Rionshaw/rion-shaw-nasscom-vsd-soc-design-program/blob/523017d4e5603ff816ac5da39c08ac4f80c18679/Screenshot%20from%202025-02-07%2019-38-29.png)
 Connectivity of the drains of both p-channel and n-channel MOSFETs to the output Y
 ![image alt](https://github.com/Rionshaw/rion-shaw-nasscom-vsd-soc-design-program/blob/75d69b80ea08b8d40c9a1ea2a6f341bea9ed6b4d/Screenshot%20from%202025-02-07%2019-42-07.png)
-Connectivity of the source of the p-channel MOSFET to VGND
+Connectivity of the source of the p-channel MOSFET to VPWR
 ![image alt](https://github.com/Rionshaw/rion-shaw-nasscom-vsd-soc-design-program/blob/21dc819a9efb8c217d59378e67eecf51b5917f28/Screenshot%20from%202025-02-07%2019-46-08.png)
 Connectivity of the source of the n-channel MOSFET to VGND
 ![image alt](https://github.com/Rionshaw/rion-shaw-nasscom-vsd-soc-design-program/blob/c99963b989c17d41616fc66f4099b9d03d0554d2/Screenshot%20from%202025-02-07%2019-49-18.png)
@@ -68,3 +68,10 @@ Write on Tkcon.tcl  %extract all then %ext2spice cthresh 0 rthresh 0 then observ
 ![image alt](https://github.com/Rionshaw/rion-shaw-nasscom-vsd-soc-design-program/blob/e6a4b5f35a74b80a7ba76478c5451ae53c6b666f/Screenshot%20from%202025-02-07%2020-09-12.png
 )
 ### 5. Adjustment of CMOS inverter SPICE file for simulation
+![image alt](https://github.com/Rionshaw/rion-shaw-nasscom-vsd-soc-design-program/blob/0180b8291b80e0b663bb75cb582998f0301b1d52/Screenshot%20from%202025-02-07%2020-25-07.png)
+do the changes
+    Correct the scale to 0.01u instead of 10m
+    Include the library models for the pshort and nshort MOSFETs
+    Define the pulse exciting the gate of the transistors
+    Specify the transient analysis
+### 6. CMOS inverter characterization with ngspice
